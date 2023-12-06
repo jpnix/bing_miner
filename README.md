@@ -4,7 +4,7 @@ Back in 2014 Microsoft wanted people to use bing so bad they would give you $5 a
 
 This shell script automates the process of searching random dictionary words in bing to generate the points needed for the gift cards.
 
-Since this promotion is long gone I figured it would be okay to finally after almost a decade to share.
+Since this promotion is long gone I figured it would be okay to finally share after almost a decade to share.
 
 ## Legal
 
